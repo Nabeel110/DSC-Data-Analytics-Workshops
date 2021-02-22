@@ -2,8 +2,10 @@
     <img width="80%" src="https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/logo-2.jpeg" id="dsc-logo"> 
     <br>
 </p>
-
-# DSC-Data-Analytics-Workshops
+# DSC Data Analytics Workshops
+<p align="center"> Welcome DSC-Data-Analytics-Workshops<br/>
+                       Powered by DSC-IBA Karachi
+    </p>
 
 ### This is the where your journey to become a Data Scientist have begun! 
 - You will have all the code files which we do in sessions available here.
