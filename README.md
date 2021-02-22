@@ -29,8 +29,7 @@
 
 |Installer Screen:3 |Installer Screen:4|
 |--|--|
-|![Installer Screen:3](https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/page_3.JPG)|
- ![Installer Screen:4](https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/page_4.JPG)|
+|![Installer Screen:3](https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/page_3.JPG)|  ![Installer Screen:4](https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/page_4.JPG)|
 
 
 
