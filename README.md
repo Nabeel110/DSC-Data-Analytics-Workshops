@@ -2,8 +2,8 @@
     <img width="80%" src="https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/logo-2.jpeg" id="dsc-logo"> 
     <br>
 </p>
-# DSC Data Analytics Workshops
-<p align="center"> Welcome DSC-Data-Analytics-Workshops<br/>
+
+<p align="center"> Welcome to DSC-Data-Analytics-Workshops<br/>
                        Powered by DSC-IBA Karachi
     </p>
 
