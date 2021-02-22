@@ -1,3 +1,8 @@
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/Nabeel110/DSC-Data-Analytics-Workshops/blob/main/Session-1(Day-1)/Screenshots/logo-2.jpeg" id="dsc-logo"> 
+    <br>
+</p>
+
 # DSC-Data-Analytics-Workshops
 
 ### This is the where your journey to become a Data Scientist have begun! 
