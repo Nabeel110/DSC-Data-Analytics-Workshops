@@ -7,7 +7,7 @@
                        Powered by DSC-IBA Karachi
     </p>
 
-### This is where your journey to become a Data Scientist have begun! 
+### This is where your journey to become a Data Scientist has begun! 
 - You will have all the code files which we do in sessions available here.
 - Clone/ Download this repository to have it on your local Machine as well.
 
